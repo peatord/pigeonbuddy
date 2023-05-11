@@ -72,7 +72,7 @@ function App() {
           {appState === "init" && (
             <div className="row">
               <NewPenPalButton func={getPenpal} />
-              <AddPenPalButton />
+              <AddPenPalButton func={becomePenpalCallback}/>
             </div>
           )}
 
