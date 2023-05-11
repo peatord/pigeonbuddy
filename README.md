@@ -1,6 +1,7 @@
 # PigeonBuddy
 
-Email penpal finder
+
+
 
 ## Intro
 
