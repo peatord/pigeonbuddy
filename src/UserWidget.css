@@ -1,0 +1,19 @@
+.userContainer {
+  justify-content: center;
+  flex: 1;
+  border: 1px solid black;
+  border-radius: 16px;
+  width: 60%;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.279);
+}
+.mail {
+  font-size: 1.2em;
+}
+.green {
+  color: #014d4f;
+}
+
+.green:hover {
+  color: blue;
+}
